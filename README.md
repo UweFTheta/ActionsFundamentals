@@ -40,13 +40,13 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - [x] Job descriptions
 
 ### Day 2
-- [ ] Introduction
-- [ ] Actions for CI/CD
-- [ ] Permissions for GitHub Token
-- [ ] Environments and Secrets
-- [ ] Staged deployments with environments, approvals, and deployment gates
-- [ ] 🔨 Hands-on: [Staged deployments](hol/03-Staged-deployments.md)
-- [ ] :coffee: Break
+- [x] Introduction
+- [x] Actions for CI/CD
+- [x] Permissions for GitHub Token
+- [x] Environments and Secrets
+- [x] Staged deployments with environments, approvals, and deployment gates
+- [x] 🔨 Hands-on: [Staged deployments](hol/03-Staged-deployments.md)
+- [x] :coffee: Break
 - [ ] Action policies
 - [ ] Running your workflows
 - [ ] Sharing workflows
